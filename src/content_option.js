@@ -65,6 +65,10 @@ const skills = [
     value: 85,
   },
   {
+    name: "Postgresql",
+    value: 85,
+  },
+  {
     name: "Java",
     value: 60,
   },
@@ -170,20 +174,20 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: "name@domain.com",
-  YOUR_FONE: "(555)123-4567",
+  YOUR_EMAIL: "sharmaattit09@gmail.com",
+  YOUR_FONE: "+1 437-256-4196",
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    "I would love to hear from you. Please send me an email about anything.",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-  YOUR_SERVICE_ID: "service_id",
-  YOUR_TEMPLATE_ID: "template_id",
-  YOUR_USER_ID: "user_id",
+  YOUR_SERVICE_ID: "service_si6a914",
+  YOUR_TEMPLATE_ID: "template_y0dwarm",
+  YOUR_USER_ID: "GkJiL4T8AbVCH9GQ_",
 };
 
 const socialprofils = {
   github: "https://github.com/Attit11",
-  facebook: "https://facebook.com",
+  facebook: "https://facebook.com/attit99",
   linkedin: "https://www.linkedin.com/in/attit-pudasaini-b32b11117/",
   twitter: "https://twitter.com/attitpudasaini1",
 //   youtube: "https://youtube.com",
